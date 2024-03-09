@@ -1,0 +1,14 @@
+table{
+    width: 50%;
+    padding-top: 10%;
+    margin: 0 auto;
+    align-items: center;
+    border-spacing: 0;
+}
+th,tr, td{
+    border: .5px solid black;
+    text-align: center;
+}
+th:first-child, td:last-child{
+    border: 2px solid black;
+}
